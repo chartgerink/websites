@@ -52,6 +52,7 @@ export default function RootLayout({
 				/>
 				<link rel="manifest" href="/site.webmanifest" />
 				<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#002642" />
+				<link rel="alternate" type="application/rss+xml" title="Journal of Trial and Error (JOTE)" href="/api/rss" />
 				<meta name="msapplication-TileColor" content="#002642" />
 				<meta name="theme-color" content="#ffffff" />
 			</head>
